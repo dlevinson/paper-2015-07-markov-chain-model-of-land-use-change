@@ -1,6 +1,6 @@
 # License Status: A Markov Chain Model Of Land Use Change
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:57:23 AEST
 
 Recorded license/access note from the verified audit row: TeMA article page states Creative Commons Attribution-NonCommercial 3.0 for the paper; land-use source layers require source/provenance notes from Borchert Map Library/Metropolitan Council lineage.
 
