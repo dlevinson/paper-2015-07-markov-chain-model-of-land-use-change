@@ -9,7 +9,7 @@
 
 Ready for public upload review as a shared-data package pointer plus paper-specific supplement. The final paper is included, and the Rania-Iacono grid source has been copied into `data/rania_iacono_grid_land_use_1960_2000`. The main historical Markov/Twin Cities source-map data live once in `_shared_sources/twin-cities-historical-landuse-markov`, rather than being duplicated here or owned by `paper-2005-04`.
 
-Current pipeline state: `READY-TO-UPLOAD/PUBLIC`.
+Current pipeline state: `UPLOADED`.
 
 ## Contents
 
@@ -36,7 +36,7 @@ Last updated: 2026-05-19 11:40:34
 
 Generated: 2026-05-22 07:56:28 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Public paper-package repositories include `paper/` PDF reference copies by owner decision; publisher takedown requests can be handled later if they arise.
 - Final GitHub upload should use the manifest include statuses and the license-status note.

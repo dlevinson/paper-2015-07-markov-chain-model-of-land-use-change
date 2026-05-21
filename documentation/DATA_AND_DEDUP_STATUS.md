@@ -30,6 +30,6 @@ It contains `All_in1.xlsx`, a 610,988-row grid-level table with `GRIDID` and `TY
 
 The remaining issue is documentation, not data discovery. The TeMA paper names 1984, 1997, and 2005 as part of the expanded time series, while the visible shared and supplement package files emphasize 1958, 1968, 1978, 1990, 2000, and compact grid fields for 60/70/80/90/00. That should be documented as a provenance/reproducibility caveat around the shared package. It is not a reason to keep hunting through Dropbox or to duplicate the already staged Wei Chen/Paving New Ground Markov data.
 
-Package decision: move `paper-2015-07` to `READY-TO-UPLOAD/PUBLIC` and point to `_shared_sources/twin-cities-historical-landuse-markov` plus the local Rania-Iacono supplement. If final transition/regression/forecast scripts later appear, add them as a follow-up code supplement; do not keep this row in `SEARCH` for lack of those scripts.
+Package decision: move `paper-2015-07` to `UPLOADED` and point to `_shared_sources/twin-cities-historical-landuse-markov` plus the local Rania-Iacono supplement. If final transition/regression/forecast scripts later appear, add them as a follow-up code supplement; do not keep this row in `SEARCH` for lack of those scripts.
 
 Last updated: 2026-05-19 11:40:34
