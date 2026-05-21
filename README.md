@@ -34,7 +34,7 @@ Last updated: 2026-05-19 11:40:34
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-21 20:57:23 AEST
+Generated: 2026-05-22 06:51:10 AEST
 
 - Pipeline: `READY-TO-UPLOAD/PUBLIC`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
