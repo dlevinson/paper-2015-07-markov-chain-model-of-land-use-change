@@ -1,5 +1,9 @@
 # A Markov Chain Model of Land Use Change
 
+## Contribution
+
+This paper models metropolitan land-use change as transitions among development states rather than as a single deterministic forecast. Eight historical Twin Cities land-use observations from 1958 to 2005 support transition matrices, explanatory models, and forecasts that reveal the persistence and path dependence of urban development.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2015-07`
