@@ -33,15 +33,23 @@ The paper states a land-use time series for 1958, 1968, 1978, 1984, 1990, 1997, 
 
 Final analysis scripts are not packaged. That is a documented reproducibility caveat, not a reason to keep this row in `SEARCH`, because the relevant data sources are already staged or linked through the shared package.
 
-Last updated: 2026-05-19 11:40:34
+## Rights And Provenance
+
+The root `LICENSE` applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, dependency records, source profiles, and derived package metadata. It also covers the local Rania-Iacono grid table and geometry supplement only to the extent controlled by the paper authors or repository maintainers.
+
+The license does not relicense the publication PDFs, historical Twin Cities land-use maps, source-map files, GIS source layers, public DRUM/UDC deposits, Metropolitan Council parcel or land-use source data, Borchert Map Library source materials, the shared `_shared_sources/twin-cities-historical-landuse-markov` package, local/Dropbox source context, vendor file-format structures, drafts, submission materials, later-found external scripts, cited references, or other third-party/external materials.
+
+No standalone software license is asserted because no executable software, scripts, notebooks, model source code, regression scripts, forecast scripts, or paper-specific runtime code are staged here.
+
+Last updated: 2026-07-02 11:19:36 AEST
 
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-22 07:56:28 AEST
+Generated: 2026-07-02 11:19:36 AEST
 
 - Pipeline: `UPLOADED`
-- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`, root `LICENSE`.
 - Public paper-package repositories include `paper/` PDF reference copies by owner decision; publisher takedown requests can be handled later if they arise.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- The root license is a narrow provenance boundary and must not be read as permission to reuse paper PDFs, public-source GIS layers, Metropolitan Council/source-map materials, shared-source payloads, or third-party assets.
 <!-- package-hardening-status:end -->
