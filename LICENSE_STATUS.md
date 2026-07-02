@@ -1,13 +1,15 @@
 # License Status: A Markov Chain Model Of Land Use Change
 
-Generated: 2026-05-22 07:56:28 AEST
+Generated: 2026-07-02 11:19:36 AEST
 
-Recorded license/access note from the verified audit row: TeMA article page states Creative Commons Attribution-NonCommercial 3.0 for the paper; land-use source layers require source/provenance notes from Borchert Map Library/Metropolitan Council lineage.
+Root license file: `LICENSE`
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The root license applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, dependency records, source profiles, and derived package metadata. It also covers the local Rania-Iacono grid table and geometry supplement only to the extent controlled by the paper authors or repository maintainers.
+
+No software license is asserted because no executable software, scripts, notebooks, model source code, regression scripts, forecast scripts, or paper-specific runtime code are staged.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- The publication PDFs retain their publication, repository, or manuscript terms, including the TeMA article terms recorded in the audit row.
+- Historical Twin Cities land-use maps, source-map files, GIS source layers, public DRUM/UDC deposits, Metropolitan Council parcel or land-use source data, Borchert Map Library source materials, the shared `_shared_sources/twin-cities-historical-landuse-markov` package, and local/Dropbox source context are not relicensed here.
+- Vendor file-format structures, application metadata, drafts, submission materials, later-found external scripts, cited references, and other third-party or externally controlled materials retain their original terms.
